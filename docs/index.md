@@ -75,8 +75,7 @@ Arduino UNO 用のサンプルスケッチです。
 2番ピンにパルス出力を接続します。雨を検出すると13番のLEDが光ります。
 ```RAIN_THR```の値がしきい値になっています。この値を変更することで、感度を調節できます。範囲は```0~255```で、```0```に近づけるほど感度が良くなり、```255```に近づけるほど感度が悪くなります。このプログラムは雨が落ちたかどうかを検出します。雨が降るとセンサが反応しますが、雨粒が落ちないと反応しないようになっています。雨粒が落ちると再度反応します。
 
-```c
-#define RAIN_IN_PIN 2
+<pre class="prettyprint lang-cpp">#define RAIN_IN_PIN 2
 #define RAIN_OUT_PIN 13
 
 #define TIMEOUT_US 100000
@@ -123,4 +122,5 @@ void loop(){
     digitalWrite(RAIN_OUT_PIN, LOW);
   }
 }
-```
+</pre>
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
