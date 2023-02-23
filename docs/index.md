@@ -124,13 +124,3 @@ void loop(){
   }
 }</code>
 </pre>
-
-<!-- https://cdnjs.com/libraries/highlight.js -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-<!-- Line Num-->
-<!-- https://github.com/wcoder/highlightjs-line-numbers.js/ -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js"></script>
-<script>hljs.initLineNumbersOnLoad();</script>
