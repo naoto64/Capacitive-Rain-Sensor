@@ -1,11 +1,11 @@
 # 静電容量式レインセンサ
 
-これは最新版のドキュメントです。以前のバージョンは以下から閲覧できます。  
-[2023/02/23 以前](https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223)
-
 ## 更新履歴
-2022/06/21 初版
-2023/02/23 レジスト色変更
+これは最新版のドキュメントです。以前のバージョンは以下から閲覧できます。  
+| バージョン | 内容 | URL |
+| --------- | ---- | --- |
+| 2022/06/21 | 初版 | [index_old_20230223](https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223) |
+| 2023/02/23 | レジスト色変更 | [この文書](https://naoto64.github.io/Capacitive-Rain-Sensor/) |
 
 ## 概要
 このセンサは静電容量式のレインセンサです。
