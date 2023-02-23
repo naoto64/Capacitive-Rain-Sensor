@@ -39,12 +39,27 @@
 [スイッチサイエンス - 静電容量式レインセンサ基板](https://www.switch-science.com/catalog/8202/)
 
 取扱説明書
-|バージョン|URL|
-|---------|---|
-|最新版|[manual_8202_20230223.pdf](manual_8202_20230223.pdf)|
-|2023/02/23以前|[manual_8202_20220621.pdf](manual_8202_20220621.pdf)|
+<table>
+  <thead>
+    <tr>
+      <th>バージョン</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>最新版</td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20230223.pdf" download>manual_8202_20230223.pdf</a></td>
+    </tr>
+    <tr>
+        <td>2023/02/23以前</td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20220621.pdf" download>manual_8202_20220621.pdf</a></td>
+    </tr>
+  </tbody>
+</table>
 
-以下はセンサの画像です。  
+## 製品画像
+
 <img src="board-image03.jpg" alt="静電容量式レインセンサ表面" width="50%">
 <img src="board-image04.jpg" alt="静電容量式レインセンサ裏面" width="50%">
 
@@ -59,7 +74,8 @@ Arduino UNO 用のサンプルスケッチです。
 2番ピンにパルス出力を接続します。雨を検出すると13番のLEDが光ります。
 ```RAIN_THR```の値がしきい値になっています。この値を変更することで、感度を調節できます。範囲は```0~255```で、```0```に近づけるほど感度が良くなり、```255```に近づけるほど感度が悪くなります。このプログラムは雨が落ちたかどうかを検出します。雨が降るとセンサが反応しますが、雨粒が落ちないと反応しないようになっています。雨粒が落ちると再度反応します。
 
-```c++:sample.ino
+<pre>
+  <code class="c++">
 #define RAIN_IN_PIN 2
 #define RAIN_OUT_PIN 13
 
@@ -107,4 +123,15 @@ void loop(){
     digitalWrite(RAIN_OUT_PIN, LOW);
   }
 }
-```
+</code>
+  </pre>
+
+<!-- https://cdnjs.com/libraries/highlight.js -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- Line Num-->
+<!-- https://github.com/wcoder/highlightjs-line-numbers.js/ -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js"></script>
+<script>hljs.initLineNumbersOnLoad();</script>
