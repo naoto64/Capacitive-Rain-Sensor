@@ -121,7 +121,7 @@ void loop(){
   else{
     digitalWrite(RAIN_OUT_PIN, LOW);
   }
-}<code></pre>
+}</code></pre>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
