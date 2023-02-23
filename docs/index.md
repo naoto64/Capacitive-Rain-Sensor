@@ -2,7 +2,7 @@
 
 ## 更新履歴
 これは最新版のドキュメントです。以前のバージョンは以下から閲覧できます。  
-| バージョン | 内容 | URL |
+| 作成日 | 内容 | URL |
 | --------- | ---- | --- |
 | 2022/06/21 | 初版 | [2023/02/23 以前のバージョン](https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223) |
 | 2023/02/23 | レジスト色変更 | [この文書（最新版）](https://naoto64.github.io/Capacitive-Rain-Sensor/) |
