@@ -60,13 +60,13 @@
 
 ## 製品画像
 
-<img src="board-image03.jpg" alt="静電容量式レインセンサ表面" width="50%">
-<img src="board-image04.jpg" alt="静電容量式レインセンサ裏面" width="50%">
+<img src="board-image03.jpg" alt="静電容量式レインセンサ表面">
+<img src="board-image04.jpg" alt="静電容量式レインセンサ裏面">
 
 ## 静電容量検出回路
 
 センサの静電容量値を測定するための検出回路は以下になります。センサーをSensor Inに接続し、Pulse Outをマイコンなどの入力に接続します。LOWパルスの長さを測定することで、現在の静電容量値を読み取ることができます。
-<img src="cap-detect.png" alt="静電容量検出回路" width="50%">
+<img src="cap-detect.png" alt="静電容量検出回路">
 
 ## 静電容量パルス測定用プログラム
 
