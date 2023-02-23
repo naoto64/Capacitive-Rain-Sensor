@@ -50,11 +50,11 @@
   <tbody>
     <tr>
         <td>最新版</td>
-        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20230223.pdf" download>manual_8202_20230223.pdf</a></td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20230223.pdf">manual_8202_20230223.pdf</a></td>
     </tr>
     <tr>
         <td>2023/02/23以前</td>
-        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20220621.pdf" download>manual_8202_20220621.pdf</a></td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual_8202_20220621.pdf">manual_8202_20220621.pdf</a></td>
     </tr>
   </tbody>
 </table>
