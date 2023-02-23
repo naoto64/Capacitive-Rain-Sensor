@@ -38,7 +38,8 @@
 この製品は以下のサイトから購入できます。  
 [スイッチサイエンス - 静電容量式レインセンサ基板](https://www.switch-science.com/catalog/8202/)
 
-取扱説明書
+#### 取扱説明書
+
 <table>
   <thead>
     <tr>
