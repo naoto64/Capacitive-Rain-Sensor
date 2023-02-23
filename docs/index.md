@@ -2,10 +2,10 @@
 
 ## 更新履歴
 これは最新版のドキュメントです。以前のバージョンは以下から閲覧できます。  
-| 作成日 | 内容 | URL |
-| --------- | ---- | --- |
-| 2022/06/21 | 初版 | [2023/02/23 以前のバージョン](https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223) |
-| 2023/02/23 | レジスト色変更 | [この文書（最新版）](https://naoto64.github.io/Capacitive-Rain-Sensor/) |
+|作成日|内容|URL|
+|---------|----|---|
+|2022/06/21|初版|[2023/02/23 以前のバージョン](https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223)|
+|2023/02/23|レジスト色変更|[この文書（最新版）](https://naoto64.github.io/Capacitive-Rain-Sensor/)|
 
 ## 概要
 このセンサは静電容量式のレインセンサです。  
@@ -19,10 +19,10 @@
 [スイッチサイエンス - 静電容量式レインセンサ基板](https://www.switch-science.com/catalog/8202/)
 
 取扱説明書
-| バージョン | URL |
-| --------- | --- |
-| 最新版 | [manual_8202_20230223.pdf](manual_8202_20230223.pdf)  |
-| 2023/02/23以前 | [manual_8202_20220621.pdf](manual_8202_20220621.pdf) |
+|バージョン|URL|
+|---------|---|
+|最新版|[manual_8202_20230223.pdf](manual_8202_20230223.pdf)|
+|2023/02/23以前|[manual_8202_20220621.pdf](manual_8202_20220621.pdf)|
 
 以下はセンサの画像です。  
 <img src="board-image03.jpg" alt="静電容量式レインセンサ表面" width="50%">
