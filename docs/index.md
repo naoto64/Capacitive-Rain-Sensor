@@ -13,14 +13,14 @@
   </thead>
   <tbody>
     <tr>
-        <th>2022/06/21</th>
-        <th>初版</th>
-        <th><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223">2023/02/23 以前のバージョン</a></th>
+        <td>2022/06/21</td>
+        <td>初版</td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/index_old_20230223">2023/02/23 以前のバージョン</a></td>
     </tr>
     <tr>
-        <th>2023/02/23</th>
-        <th>レジスト色変更</th>
-        <th><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/">この文書（最新版）</a></th>
+        <td>2023/02/23</td>
+        <td>レジスト色変更</td>
+        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/">この文書（最新版）</a></td>
     </tr>
   </tbody>
 </table>
