@@ -60,8 +60,8 @@
 
 ## 製品画像
 
-<img src="board-image03.jpg" alt="静電容量式レインセンサ表面">
-<img src="board-image04.jpg" alt="静電容量式レインセンサ裏面">
+<img src="board-image03.jpg" alt="静電容量式レインセンサ表面" width="75%">
+<img src="board-image04.jpg" alt="静電容量式レインセンサ裏面" width="75%">
 
 ## 静電容量検出回路
 
