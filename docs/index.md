@@ -75,8 +75,7 @@ Arduino UNO 用のサンプルスケッチです。
 ```RAIN_THR```の値がしきい値になっています。この値を変更することで、感度を調節できます。範囲は```0~255```で、```0```に近づけるほど感度が良くなり、```255```に近づけるほど感度が悪くなります。このプログラムは雨が落ちたかどうかを検出します。雨が降るとセンサが反応しますが、雨粒が落ちないと反応しないようになっています。雨粒が落ちると再度反応します。
 
 <pre>
-  <code class="c++">
-#define RAIN_IN_PIN 2
+  <code class="c++">#define RAIN_IN_PIN 2
 #define RAIN_OUT_PIN 13
 
 #define TIMEOUT_US 100000
@@ -122,8 +121,7 @@ void loop(){
   else{
     digitalWrite(RAIN_OUT_PIN, LOW);
   }
-}
-</code>
+}</code>
 </pre>
 
 <!-- https://cdnjs.com/libraries/highlight.js -->
